@@ -1,0 +1,45 @@
+Clone Repository from GIT Command:
+-----------------------------------
+Step:1
+------
+git config --global user.name "Faisal-CSE"
+
+Step:2
+------
+git config --global user.email porag_faisal123@hotmail.com
+
+Step:3
+------
+git clone url
+Example:
+git clone https://github.com/Faisal-CSE/Classic-ASP-Test.git
+
+
+====================================================================
+Upload File:
+------------
+Step:1
+------
+git add (file name)
+Example:
+git add test.txt
+
+Step:2
+------
+To check file upload or not 
+----------------------------
+git status 
+
+then
+1.
+git commit -m "First commit" test.txt
+2.
+git push -u origin master
+
+
+**Note: If any changes in the file then run 1 n 2 command 
+
+
+
+
+
