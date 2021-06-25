@@ -10,7 +10,7 @@
 7.Copy the https url of your newly created repo
 8.In the Command prompt, add the URL for the remote repository where your local repository will be pushed.
 
-	git remote add origin (remote repository URL) like (https://github.com/Faisal-CSE/Classic-ASP-Test)
+	git remote add origin (remote repository URL) like git remote add origin https://github.com/Faisal-CSE/Classic-ASP-Test
 
 	git remote -v
  9.Push the changes in your local repository to GitHub.
