@@ -26,5 +26,19 @@
 
 >> git merge main -m "description u want" //Marge with main branch
 
+>> git push origin main         //push to remote in main branch
+>> git push origin development  //push to remote in development branch
 
 >> git push --set-upstream origin master //Push to remote 
+
+
+//FATCH COMMAND
+------------------
+>> git fetch // remote to local
+>> git merge //If we use fetch then call merge also to get changes in local files
+
+//PULL COMMAND
+---------------
+>> git pull
+
+
