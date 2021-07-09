@@ -1,0 +1,30 @@
+
+>> ALL GIT COMMANDS
+>>FILE'S Author: FAISAL PORAG
+------------------------------
+
+>> git init
+
+>> git status   //Get status summary
+
+>> git add --all OR git add -A  //Both of means up all files on the stage
+>> git add .                    //Means up all files on the stage in a specific folder
+>> git add *                    //Up all files on the stage except deleted files
+>> git add abc.txt              //Up specific files on the stage
+>> git add *.js                 //Up same extension files on the stage
+
+>> git reset    //Back from stage 
+
+>> git commit -m "changes summary"
+
+>> git reset HEAD~  //reset after commit apply
+>> git reset --hard //deleted files also Back
+
+>> git branch //get current branch
+>> git branch development //Create new branch
+>> git checkout development //Swtich to development branch
+
+>> git merge main -m "description u want" //Marge with main branch
+
+
+>> git push --set-upstream origin master //Push to remote 
