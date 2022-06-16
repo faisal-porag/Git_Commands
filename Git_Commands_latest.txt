@@ -54,6 +54,7 @@
 //PULL COMMAND
 ---------------
 >> git pull
+>> git pull origin master //pull from remote master branch 
 
 >> git clone url
 
