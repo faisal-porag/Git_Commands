@@ -24,6 +24,10 @@
 >> git branch development //Create new branch
 >> git checkout development //Swtich to development branch
 
+// FOR DELETE LOCAL BRANCH 
+>> git branch -d development
+>> git branch -D development
+
 >> git branch -b new_feature //Create and switch branch
 
 >> git merge main -m "description u want" //Marge with main branch
