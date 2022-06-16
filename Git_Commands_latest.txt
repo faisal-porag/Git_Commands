@@ -41,6 +41,7 @@
 
 //FATCH COMMAND
 ------------------
+>> git fetch --dry-run
 >> git fetch // remote to local
 >> git merge //If we use fetch then call merge also to get changes in local files
 
@@ -49,4 +50,9 @@
 >> git pull
 
 >> git clone url
+
+>> git remote prune origin
+
+>> git diff
+
 
