@@ -24,6 +24,8 @@
 >> git branch development //Create new branch
 >> git checkout development //Swtich to development branch
 
+>> git branch -b new_feature //Create and switch branch
+
 >> git merge main -m "description u want" //Marge with main branch
 
 //IF UPLOAD FOR THE FIRST TIME THEN
