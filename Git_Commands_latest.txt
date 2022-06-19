@@ -1,6 +1,6 @@
 
 >> ALL GIT COMMANDS
->>FILE'S Author: FAISAL PORAG
+>> FILE'S Author: FAISAL PORAG
 ------------------------------
 
 >> git init
@@ -56,7 +56,7 @@
 >> git pull
 >> git pull origin master //pull from remote master branch 
 
->> git clone url
+>> git clone PROJECT_URL
 
 >> git remote prune origin
 
