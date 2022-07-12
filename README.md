@@ -2,12 +2,13 @@
 Steps to do 
 
 
-```shell
-https://git-scm.com/
-```
-
 Download git from official site
 ---
+```shell
+https://git-scm.com/
+
+```
+#### COMMANDS (GIT INITIALIZE)
 
 ```shell
 git init
@@ -109,21 +110,81 @@ git push --set-upstream origin master
 
 #### FATCH COMMAND
 ------------------
->> git fetch --dry-run
->> git fetch // remote to local
->> git merge //If we use fetch then call merge also to get changes in local files
+```shell
+git fetch --dry-run
+```
+#### remote to local
+```shell
+git fetch 
+```
+##### If we use fetch then call merge also to get changes in local files
+```shell
+git merge 
+```
 
 #### PULL COMMAND
 ------------------
->> git pull
->> git pull origin master //pull from remote master branch 
+```shell
+git pull
+```
+#### pull from remote master branch 
+```shell
+git pull origin master
+```
 
->> git clone PROJECT_URL
+```shell
+git clone PROJECT_URL
+```
 
->> git remote prune origin
+```shell
+git remote prune origin
+```
 
->> git diff
+```shell
+git diff
+```
 
 #### Shortcut
+```shell
 git add . && git commit -m 'COMMIT MESSAGE' && git push origin BRANCH_NAME
+```
+
+```shell
+git log
+```
+#### clean remote branch in locally 
+```shell 
+git remote prune origin
+```
+
+#### Publish your tags
+```shell
+git push --tags
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
