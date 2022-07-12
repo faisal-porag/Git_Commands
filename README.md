@@ -162,9 +162,14 @@ git remote prune origin
 git push --tags
 ```
 
-
-
-
+#### Revert a commit (by producing a new commit with contrary changes)
+```shell
+git revert <commit>
+```
+#### Discard all local changes in your working directory
+```shell
+git reset --hard HEAD
+```
 
 
 
