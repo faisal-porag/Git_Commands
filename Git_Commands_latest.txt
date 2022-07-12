@@ -62,4 +62,7 @@
 
 >> git diff
 
+// Shortcut
+git add . && git commit -m 'COMMIT MESSAGE' && git push origin BRANCH_NAME
+
 
