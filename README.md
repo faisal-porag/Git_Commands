@@ -171,11 +171,15 @@ git revert <commit>
 git reset --hard HEAD
 ```
 
+#### Reset your HEAD pointer to a previous commit & preserve uncommitted local changes
+```shell
+git reset --keep <commit>
+```
 
-
-
-
-
+#### Delete a branch on the remote
+```shell
+git branch -dr <remote/branch>
+```
 
 
 
