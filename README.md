@@ -188,9 +188,12 @@ git push origin <commit SHA>:<remotebranchname> -f
 ```
 Example: git push origin  SSSDDDDD:REMOTE_BRANCH_NAME -f  //SSSDDDDD -> commit ID
 
+---
 
-
-
+#### reset local branch 
+```shell
+git reset YOUR_COMMIT_ID
+```
 
 
 
