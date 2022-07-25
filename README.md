@@ -184,7 +184,7 @@ git branch -dr <remote/branch>
 
 #### Force commit to the remote branch
 ```shell
-git push origin <commit SHA>:<remotebranchname>
+git push origin <commit SHA>:<remotebranchname> -f
 ```
 Example: git push origin  SSSDDDDD:REMOTE_BRANCH_NAME -f  //SSSDDDDD -> commit ID
 
