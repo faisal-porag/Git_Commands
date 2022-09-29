@@ -199,6 +199,8 @@ git reset YOUR_COMMIT_ID
 #### GIT DETAILS LOG BY COMMIT ID 
 ```shell
 git diff-tree --no-commit-id --name-only -r 61043e098f9b8526f6c1abd910d40e5fd7d7deae
+or ------- 
+git log --name-only
 ```
 
 
