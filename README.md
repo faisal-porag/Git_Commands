@@ -204,8 +204,10 @@ git log --name-only
 ```
 
 
-
-
+##### SHOW COMMIT DETAILS LOG
+```sh 
+git show <COMMIT_ID>
+```
 
 
 
