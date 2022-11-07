@@ -209,5 +209,14 @@ git log --name-only
 git show <COMMIT_ID>
 ```
 
+unstage a file while retaining the changes in working directory
+```sh
+git reset <FILE_NAME>
+```
+
+```sh 
+git stash list
+```
+
 
 
