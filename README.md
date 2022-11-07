@@ -214,9 +214,33 @@ unstage a file while retaining the changes in working directory
 git reset <FILE_NAME>
 ```
 
+---
+
+##### TEMPORARY COMMITS
+
+Save modified and staged changes
+```sh
+git stash
+```
+
+list stack-order of stashed file changes
 ```sh 
 git stash list
 ```
+
+write working from top of stash stack
+```sh
+git stash pop
+```
+
+discard the changes from top of stash stack
+```sh
+git stash drop
+```
+---
+
+
+
 
 
 
