@@ -7,6 +7,15 @@ Download git from official site
 ```shell
 https://git-scm.com/
 
+---
+
+#### set global git config settings
+
+```sh 
+git config --global --edit
+```
+---
+
 ```
 #### COMMANDS (GIT INITIALIZE)
 
