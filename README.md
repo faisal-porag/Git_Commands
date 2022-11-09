@@ -12,7 +12,7 @@ https://git-scm.com/
 #### set global git config settings
 
 ```sh 
-git config --global --edit
+git config --global --edit 
 ```
 ---
 
