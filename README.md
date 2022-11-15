@@ -18,7 +18,6 @@ git config --global --edit
 ```
 ---
 
-```
 #### COMMANDS (GIT INITIALIZE)
 
 ```shell
