@@ -4,8 +4,10 @@ Steps to do
 
 Download git from official site
 ---
+
 ```shell
 https://git-scm.com/
+```
 
 ---
 
