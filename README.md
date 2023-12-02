@@ -249,6 +249,16 @@ git stash drop
 ```
 ---
 
+Remove file from git cache
+```sh
+git rm --cached <file>
+```
+
+
+
+
+
+
 
 
 
